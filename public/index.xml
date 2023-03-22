@@ -6,7 +6,30 @@
     <description>Recent content on FSA-ACC-Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 17:30:34 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 04:14:14 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/posts/about/</link>
+      <pubDate>Wed, 22 Mar 2023 04:14:14 -0700</pubDate>
+      
+      <guid>http://example.org/posts/about/</guid>
+      <description>These are supplemental learning resources created by me for students taking Fullstack Academy&amp;rsquo;s Amazon Career Choice program.
+To run locally, follow the installation steps for installing HUGO.
+Then clone this repository with the recursive flag set to install all dependencies: git clone --recursive git@github.com:xavierloeraflores/fsa-acc-resources.git
+Navigate to this projects folder and run hugo server to run the project locally.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Git</title>
+      <link>http://example.org/posts/git-basics/</link>
+      <pubDate>Wed, 22 Mar 2023 03:21:19 -0700</pubDate>
+      
+      <guid>http://example.org/posts/git-basics/</guid>
+      <description>This post introduces information relating to the basics of using git containing quick references for initializing a git repository, cloning a repository, and checking if you are currently within a git repository.
+Checking for a git repository The fastest way to know if you are currently within a git repository at your current directory is to run:
+git status You are not within a git repository if you see the following output:</description>
+    </item>
+    
     <item>
       <title>YouTube Channels</title>
       <link>http://example.org/posts/youtube-channels/</link>
