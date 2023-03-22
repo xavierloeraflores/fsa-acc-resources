@@ -4,7 +4,6 @@ date: 2023-03-17T17:30:34-07:00
 draft: false
 ---
 
-## YouTube Channels
 
 This is a general list of YouTube Channels I would recommend following:
 
