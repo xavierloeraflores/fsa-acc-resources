@@ -1,5 +1,5 @@
 baseURL: "https://xavierloeraflores.github.io/fsa-acc-resources/"
-title: Xavier's Resources
+title: Supplemental Resources
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Xavier's Resources
+  title: Supplemental Resources
   description: "These are supplemental learning resources created by me for students taking Fullstack Academy's Amazon Career Choice program."
   keywords: [Blog, Portfolio, PaperMod]
   author: Xavier Loera Flores
