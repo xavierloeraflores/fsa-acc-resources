@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'FSA-ACC-Resources'
 theme = 'PaperMod'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
